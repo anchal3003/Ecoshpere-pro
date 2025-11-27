@@ -528,6 +528,10 @@ We believe in open-source collaboration for environmental solutions. Our MIT lic
 
 *Full-stack development and technical architecture*
 
+**Anchal Patel** - Frontend Developer
+
+*Frontend development and technical architecture*
+
 **Pranshu Shakya** - EcoShop developer
 </div>
 
